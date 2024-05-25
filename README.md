@@ -53,7 +53,7 @@ Let's Make sth Happen!
 [//]: # (<br clear="both">)
 
 [//]: # (<img src="https://raw.githubusercontent.com/lapse12/lapse12/output/snake.svg" alt="Snake animation" />)
-<img src="https://raw.githubusercontent.com/lapse12/lapse12/output/snake.svg" alt="Snake animation" />
+[//]: # (<img src="https://raw.githubusercontent.com/lapse12/lapse12/output/snake.svg" alt="Snake animation" />)
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
