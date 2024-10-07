@@ -49,26 +49,25 @@ Let's Make sth Happen!
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 
-###
+<!-- ###
 [//]: # (<br clear="both">)
 
 [//]: # (<img src="https://raw.githubusercontent.com/lapse12/lapse12/output/snake.svg" alt="Snake animation" />)
-[//]: # (<img src="https://raw.githubusercontent.com/lapse12/lapse12/output/snake.svg" alt="Snake animation" />)
+<img src="https://raw.githubusercontent.com/lapse12/lapse12/output/snake.svg" alt="Snake animation" />
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 
-[//]: # ([![]&#40;https://visitcount.itsvg.in/api?id=lapse12&icon=0&color=0&#41;]&#40;https://visitcount.itsvg.in&#41;)
+[//]: # ([![]&#40;https://visitcount.itsvg.in/api?id=lapse12&icon=0&color=0&#41;]&#40;https://visitcount.itsvg.in&#41;) -->
 
-<!--
-## 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lapse12&theme=nord&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lapse12&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lapse12&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lapse12&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
--->
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
